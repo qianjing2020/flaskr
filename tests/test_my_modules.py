@@ -7,3 +7,4 @@ print(os.path.abspath(os.path.join(testdir, srcdir)))
 
 print(sys.path)
 
+from .flaskr import flaskr
