@@ -23,6 +23,7 @@ colorama==0.4.3
 colorlover==0.3.0
 configparser==5.0.0
 confuse==1.1.0
+coverage==5.3
 cufflinks==0.17.3
 cycler==0.10.0
 Cython==0.29.17
@@ -55,6 +56,7 @@ htmlmin==0.1.12
 idna==2.9
 ImageHash==4.1.0
 importlib-metadata==1.6.0
+iniconfig==1.1.1
 ipykernel==5.2.1
 ipython==7.14.0
 ipython-genutils==0.2.0
@@ -111,6 +113,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 pkginfo==1.6.1
 plotly==4.6.0
+pluggy==0.13.1
 prometheus-client==0.7.1
 promise==2.3
 prompt-toolkit==3.0.5
@@ -118,6 +121,7 @@ protobuf==3.11.3
 psutil==5.7.0
 psycopg2-binary==2.8.4
 ptyprocess==0.6.0
+py==1.9.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.5.0
@@ -129,6 +133,7 @@ pymysql2==1.2.6
 pyparsing==2.4.7
 pyrsistent==0.16.0
 pystan==2.19.1.1
+pytest==6.1.2
 python-dateutil==2.8.1
 python-dotenv==0.13.0
 pytz==2020.1
